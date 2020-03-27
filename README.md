@@ -4,4 +4,8 @@ This is a sample readme file
 
 ## Heading 2
 
+<<<<<<< HEAD
 Well this wont be a problem
+=======
+this will cause trouble
+>>>>>>> very-bad
